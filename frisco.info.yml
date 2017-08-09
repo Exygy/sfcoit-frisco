@@ -1,0 +1,15 @@
+name: Frisco
+type: theme
+description: Parent theme for SF COIT & beyond!  Based on Stable, not Classy.
+core: 8.x
+# Defines the base theme
+base theme: stable
+# Defines libraries group in which we can add css/js.
+libraries:
+  - frisco/global-styling
+# Regions
+regions:
+  header: Header
+  featured: Featured
+  content: Content
+  footer: Footer
