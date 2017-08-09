@@ -1,0 +1,13 @@
+{
+    "name": "exygy/frisco",
+    "description": "Parent theme for SF COIT & beyond!",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Jordan",
+            "email": "jordan@koplowicz.com"
+        }
+    ],
+    "require": {}
+}
