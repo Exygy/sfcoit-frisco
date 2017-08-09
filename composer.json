@@ -1,7 +1,7 @@
 {
     "name": "sfcoit-frisco/sfcoit-frisco",
     "description": "Parent theme for SF COIT & beyond!",
-    "type": "project",
+    "type": "drupal-theme",
     "license": "GPL3",
     "authors": [
         {
