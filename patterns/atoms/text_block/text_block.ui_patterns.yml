@@ -8,5 +8,8 @@ text_block:
       description: text goes here
       preview: 'Now is the time for all good men to come to the aid of their country'
   libraries:
-    - frisco/text_block
-  use: '@atoms/text_block/text-block.html.twig'
+    -
+      frisco/text_block:
+        js: {}
+        css: {}
+  use: '@frisco/atoms/text_block/text_block.html.twig'
