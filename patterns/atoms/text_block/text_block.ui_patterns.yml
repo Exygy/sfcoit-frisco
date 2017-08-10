@@ -1,0 +1,12 @@
+text_block:
+  label: Text block
+  description: basic block of text, allows html
+  fields:
+    content:
+      type: string
+      label: Content
+      description: text goes here
+      preview: 'Now is the time for all good men to come to the aid of their country'
+  libraries:
+    - frisco/text_block
+  use: '@atoms/text_block/text-block.html.twig'

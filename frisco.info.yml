@@ -13,3 +13,10 @@ regions:
   featured: Featured
   content: Content
   footer: Footer
+dependencies:
+  - components
+  - ui_patterns
+component-libraries:
+  frisco:
+    paths:
+      - patterns

@@ -2,3 +2,5 @@ global-styling:
   css:
     component:
       css/style.css: {}
+text-block:
+  version: 1.x
