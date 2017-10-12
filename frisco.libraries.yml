@@ -1,0 +1,7 @@
+global-styling:
+  css:
+    component:
+      css/style.css: {}
+text_block:
+  version: 1.x
+  css: {}
